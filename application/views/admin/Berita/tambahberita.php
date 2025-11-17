@@ -36,7 +36,7 @@
 							<div class="form-group row mb-4">
 								<label class="col-form-label text-md-right col-12 col-md-3 col-lg-3">Gambar Berita</label>
 								<div class="col-sm-12 col-md-7">
-									<input type="file" name="gambar_berita" class="form-control">
+									<input type="file" name="file_nama" class="form-control">
 								</div>
 							</div>
 							<div class="form-group row mb-4">
